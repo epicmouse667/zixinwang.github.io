@@ -81,52 +81,6 @@ My research interest lies in human-centered animation. More specifically, I work
   </article>
   
   <article class="pub-card">
-    <div class="pub-media">
-      <!-- 换成你的预览图路径 -->
-      <img src="images/talkcuts_teaser.png" alt="TalkCuts teaser">
-      <span class="venue-badge">NeurIPS 2025</span>
-    </div>
-
-    <div class="pub-body">
-      <h3 class="pub-title">
-        <a href="https://talkcuts.github.io/" target="_blank" rel="noopener">
-          TalkCuts: A Large-Scale Dataset for Multi-Shot Human Speech Video Generation
-        </a>
-      </h3>
-
-      <p class="pub-authors">
-        <span class="author">Jiaben Chen<sup>*</sup></span>,
-        <span class="author"><strong>Zixin Wang</strong><sup>*</sup></span>,
-        <span class="author">Ailing Zeng</span>,
-        <span class="author">Yang Fu</span>,
-        <span class="author">Xueyang Yu</span>,
-        <span class="author">Siyuan Cen</span>,
-        <span class="author">Julian Tanke</span>,
-        <span class="author">Yihang Chen</span>,
-        <span class="author">Koichi Saito</span>,
-        <span class="author">Yuki Mitsufuji</span>,
-        <span class="author">Chuang Gan</span>
-      </p>
-
-      <p class="pub-venue">
-        <em>Neural Information Processing Systems (NeurIPS)</em>, 2025
-      </p>
-
-      <p class="pub-links">
-        <a href="https://talkcuts.github.io/" target="_blank" rel="noopener">project page</a>
-        <span class="sep">/</span>
-        <a href="https://arxiv.org/pdf/2510.07249" target="_blank" rel="noopener">paper</a>
-        <span class="sep">/</span>
-        <a href="https://github.com/UMass-Embodied-AGI/TalkCuts" target="_blank" rel="noopener">code</a>
-      </p>
-
-      <p class="pub-abs">
-        In this work, we present TalkCuts, a large-scale benchmark dataset designed to
-        facilitate the study of multi-shot human speech video generation.
-      </p>
-    </div>
-  </article>
-  <article class="pub-card">
   <div class="pub-media">
     <!-- 换成你自己的预览图路径 -->
     <img src="images/rapverse_teaser.png" alt="RapVerse teaser">
@@ -224,20 +178,119 @@ My research interest lies in human-centered animation. More specifically, I work
     .pub-card{grid-template-columns:1fr}
   }
 </style>
+# 🛠️ Project
+<article class="pub-card">
+  <div class="pub-media">
+    <!-- 换成你的 teaser 图 -->
+    <img src="images/speechgpt2_teaser.png" alt="SpeechGPT2 teaser">
+  </div>
 
+  <div class="pub-body">
+    <h3 class="pub-title">
+      <a href="https://0nutation.github.io/SpeechGPT2.github.io/" target="_blank" rel="noopener">
+        SpeechGPT2: End-to-End Speech-Centric Large Language Model for Unified Listening, Speaking, and Understanding
+      </a>
+    </h3>
+    <p class="pub-links">
+      <a href="https://0nutation.github.io/SpeechGPT2.github.io/" target="_blank" rel="noopener">project page</a>
+      <span class="sep">/</span>
+      <a href="https://github.com/OpenMOSS/SpeechGPT-2.0-preview" target="_blank" rel="noopener">code</a>
+    </p>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+    <p class="pub-abs">
+      SpeechGPT2 is an end-to-end speech-centric large language model designed to unify listening,
+      speech understanding, and spoken response generation. The model supports natural multi-turn
+      audio-based interaction **without** requiring intermediate text conversion.
+    </p>
+  </div>
+</article>
+<style>
+  :root{
+    --text:#1f2937;
+    --muted:#6b7280;
+    --link:#2563eb;
+    --badge:#111827;
+    --card:#ffffff;
+    --border:#e5e7eb;
+  }
+
+  .pub-card{
+    display:grid;
+    grid-template-columns: 320px 1fr;
+    gap:1.25rem;
+    align-items:start;
+    padding:1rem;
+    border:1px solid var(--border);
+    border-radius:12px;
+    background:var(--card);
+    margin-bottom:1.25rem;
+  }
+
+  .pub-media img{
+    width:100%;height:auto;display:block;
+    border-radius:10px;border:1px solid var(--border);
+    object-fit:cover;
+  }
+
+  .pub-title{margin:.25rem 0 .5rem 0;font-size:1.25rem;line-height:1.3}
+  .pub-title a{text-decoration:none;color:var(--link)}
+  .pub-title a:hover{text-decoration:underline}
+
+  .pub-links{margin:.35rem 0}
+  .pub-links a{color:var(--link);text-decoration:none}
+  .pub-links a:hover{text-decoration:underline}
+  .pub-links .sep{margin:0 .35rem;color:var(--muted)}
+
+  .pub-abs{margin-top:.35rem;color:var(--text);line-height:1.45}
+
+  @media (max-width: 720px){
+    .pub-card{grid-template-columns:1fr}
+  }
+</style>
 
 # 📖 Educations
-- *2024.09 - now*, MSCS student 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<h2>Education</h2>
+<hr style="margin-top: -0.5em; margin-bottom: 1.5em;">
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+<div class="edu-item">
+  <div class="edu-info">
+    <strong>University of Massachusetts Amherst</strong><br>
+    MSCS Student, <em>2024.09 - Present</em><br>
+    Advisor: <a href="https://people.csail.mit.edu/ganchuang/" target="_blank">Chuang Gan</a>
+  </div>
+  <div class="edu-logo">
+    <img src="images/umass_logo.png" alt="UMass" />
+  </div>
+</div>
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<div class="edu-item">
+  <div class="edu-info">
+    <strong>Fudan University</strong><br>
+    Undergraduate, <em>2023.06 - 2023.12</em><br>
+    Advisor: <a href=https://openreview.net/profile?id=~Yaqian_Zhou1" target="_blank">Yaqian Zhou</a>
+  </div>
+  <div class="edu-logo">
+    <img src="images/fudan_logo.png" alt="Fudan" />
+  </div>
+</div>
+# 💻 Experiences
+<div class="edu-item">
+  <div class="edu-info">
+    <strong>CUHKSZ</strong><br>
+    Research Intern, <em>2023.06 - 2023.19</em><br>
+    Advisor: <a href=https://cde.nus.edu.sg/ece/haizhou-li/" target="_blank">Haizhou Li</a>
+  </div>
+  <div class="edu-logo">
+    <img src="images/cuhksz_logo.png" alt="CUHKSZ" />
+  </div>
+</div>
+<div class="edu-item">
+  <div class="edu-info">
+    <strong>SONYAI</strong><br>
+    Collaboration, <em>2025.01 - now</em><br>
+    Host: <a href=https://github.com/jutanke" target="_blank">Julian Tanke</a>
+  </div>
+  <div class="edu-logo">
+    <img src="images/sonyai_logo.png" alt="SONYAI" />
+  </div>
+</div>
