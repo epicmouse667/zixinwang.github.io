@@ -17,13 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year M.S. in Computer Science student at the [Umass Amherst](https://www.umass.edu/), advised by prof. [Chuang Gan](https://people.csail.mit.edu/ganchuang/). I also work closely with [Frank Dou](https://frank-zy-dou.github.io/) from MIT. In addition, I collaborate with  Dr. [Julian Tanke](https://github.com/jutanke), and [takashi Shibuya](https://scholar.google.com/citations?user=XCRO260AAAAJ) at SonyAI on ongoing research projects. I received my B.Eng. degree from Fudan University, where I was advised by [Yaqian Zhou](https://openreview.net/profile?id=~Yaqian_Zhou1). Previously, I was a research intern at SRIBD working on speech spearation and automatic speech recognition(ASR), supervised by prof. [Haizhou Li](https://cde.nus.edu.sg/ece/haizhou-li/).
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am a second-year M.S. in Computer Science student at the [Umass Amherst](https://www.umass.edu/), advised by Prof. [Chuang Gan](https://people.csail.mit.edu/ganchuang/). I also work closely with Dr. [Frank Dou](https://frank-zy-dou.github.io/) from [MIT CSAIL](https://www.csail.mit.edu/). In addition, I collaborate with  Dr. [Julian Tanke](https://github.com/jutanke), and [takashi Shibuya](https://scholar.google.com/citations?user=XCRO260AAAAJ) at SonyAI on ongoing research projects. I received my B.Eng. degree from Fudan University, where I was fortuante to be advised by [Yaqian Zhou](https://openreview.net/profile?id=~Yaqian_Zhou1). During senior years, I was a research intern at SRIBD, supervised by Prof. [Haizhou Li](https://cde.nus.edu.sg/ece/haizhou-li/).
+
+My research interest lies in human-centered animation. More specifically, I work on character animation, computer graphics, physics-based simulation, and motion estimation. My ultimate goal is to build a neural-based physics engine for simulating human motion as well as human–object–scene interactions — in other words, the system I refer to as [Clotho](https://en.wikipedia.org/wiki/Clotho).
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.10*: &nbsp;🎉🎉 One co-first-author paper TalkCuts has been accepted to [Neurips 2025](https://neurips.cc/). 
+- *2025.07*: &nbsp;🎉🎉 One paper Rapverse has been accepted to [ICCV 2025](https://iccv.thecvf.com/).
+-  
 
 # 📝 Publications 
 
@@ -45,7 +47,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09 - now*, MSCS student 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💬 Invited Talks
