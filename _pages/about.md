@@ -36,7 +36,7 @@ My research interest lies in human-centered animation. More specifically, I work
   <article class="pub-card">
     <div class="pub-media">
       <!-- 换成你的预览图路径 -->
-      <img src="images/500x300.png" alt="TalkCuts teaser">
+      <img src="images/talkcuts_teaser.png" alt="TalkCuts teaser">
       <span class="venue-badge">NeurIPS 2025</span>
     </div>
 
@@ -79,6 +79,100 @@ My research interest lies in human-centered animation. More specifically, I work
       </p>
     </div>
   </article>
+  
+  <article class="pub-card">
+    <div class="pub-media">
+      <!-- 换成你的预览图路径 -->
+      <img src="images/talkcuts_teaser.png" alt="TalkCuts teaser">
+      <span class="venue-badge">NeurIPS 2025</span>
+    </div>
+
+    <div class="pub-body">
+      <h3 class="pub-title">
+        <a href="https://talkcuts.github.io/" target="_blank" rel="noopener">
+          TalkCuts: A Large-Scale Dataset for Multi-Shot Human Speech Video Generation
+        </a>
+      </h3>
+
+      <p class="pub-authors">
+        <span class="author">Jiaben Chen<sup>*</sup></span>,
+        <span class="author"><strong>Zixin Wang</strong><sup>*</sup></span>,
+        <span class="author">Ailing Zeng</span>,
+        <span class="author">Yang Fu</span>,
+        <span class="author">Xueyang Yu</span>,
+        <span class="author">Siyuan Cen</span>,
+        <span class="author">Julian Tanke</span>,
+        <span class="author">Yihang Chen</span>,
+        <span class="author">Koichi Saito</span>,
+        <span class="author">Yuki Mitsufuji</span>,
+        <span class="author">Chuang Gan</span>
+      </p>
+
+      <p class="pub-venue">
+        <em>Neural Information Processing Systems (NeurIPS)</em>, 2025
+      </p>
+
+      <p class="pub-links">
+        <a href="https://talkcuts.github.io/" target="_blank" rel="noopener">project page</a>
+        <span class="sep">/</span>
+        <a href="https://arxiv.org/pdf/2510.07249" target="_blank" rel="noopener">paper</a>
+        <span class="sep">/</span>
+        <a href="https://github.com/UMass-Embodied-AGI/TalkCuts" target="_blank" rel="noopener">code</a>
+      </p>
+
+      <p class="pub-abs">
+        In this work, we present TalkCuts, a large-scale benchmark dataset designed to
+        facilitate the study of multi-shot human speech video generation.
+      </p>
+    </div>
+  </article>
+  <article class="pub-card">
+  <div class="pub-media">
+    <!-- 换成你自己的预览图路径 -->
+    <img src="images/rapverse_teaser.png" alt="RapVerse teaser">
+    <span class="venue-badge">ICCV 2025</span>
+  </div>
+
+  <div class="pub-body">
+    <h3 class="pub-title">
+      <a href="https://rapverse.github.io/" target="_blank" rel="noopener">
+        RapVerse: Coherent Vocals and Whole-Body Motions Generations from Text
+      </a>
+    </h3>
+
+    <p class="pub-authors">
+      <span class="author">Jiaben Chen</span>,
+      <span class="author">Xin Yan</span>,
+      <span class="author">Yihang Chen</span>,
+      <span class="author">Siyuan Cen</span>,
+      <span class="author"><strong>Zixin Wang</strong></span>,
+      <span class="author">Qinwei Ma</span>,
+      <span class="author">Haoyu Zhen</span>,
+      <span class="author">Kaizhi Qian</span>,
+      <span class="author">Lie Lu</span>,
+      <span class="author">Chuang Gan</span>
+    </p>
+
+    <p class="pub-venue">
+      <em>International Conference on Computer Vision (ICCV)</em>, 2025
+    </p>
+
+    <p class="pub-links">
+      <a href="https://vis-www.cs.umass.edu/RapVerse/" target="_blank" rel="noopener">project page</a>
+      <span class="sep">/</span>
+      <a href="https://arxiv.org/abs/2405.20336" target="_blank" rel="noopener">paper</a>
+      <span class="sep">/</span>
+      <a href="https://github.com/UMass-Embodied-AGI/RapVerse" target="_blank" rel="noopener">code</a>
+    </p>
+
+    <p class="pub-abs">
+      In this paper, we introduce a challenging task for simultaneously generating 3D holistic
+      body motions and singing vocals directly from textual lyrics inputs. To facilitate this,
+      we first collect the RapVerse dataset, a large dataset containing synchronous rapping
+      vocals, lyrics, and high-quality 3D holistic body meshes.
+    </p>
+  </div>
+</article>
 </section>
 
 <!-- ===== Styles ===== -->
