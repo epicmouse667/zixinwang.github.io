@@ -245,11 +245,11 @@ My research interest lies in human-centered animation. More specifically, I work
 <div class="edu-item">
   <div class="edu-info">
     <strong>SONYAI</strong><br>
-    Collaboration, <em>2025.01 - now</em><br>
+    Collaboration, <em>2025.01 - present</em><br>
     Host: <a href="https://github.com/jutanke" target="_blank">Julian Tanke</a>
   </div>
   <div class="edu-logo">
-    <img src="images/sony_logo.png" alt="SONYAI" />
+    <img src="images/sony_logo.jpg" alt="SONYAI" />
   </div>
 </div>
 <style>
