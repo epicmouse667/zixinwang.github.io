@@ -13,10 +13,10 @@ main:
     url: "/#-educations"
 
   - title: "Project"
-    url: "/#-project"
+    url: "/#project"
     
   - title: "Experiences"
-    url: "/#-experiences"
+    url: "/#experiences"
 
   - title: "Life"
-    url: "/#-life"
+    url: "/#life"
