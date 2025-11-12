@@ -204,6 +204,54 @@ My research interest lies in human-centered animation. More specifically, I work
     </p>
   </div>
 </article>
+
+
+# 📖 Educations
+<h2>Education</h2>
+<hr style="margin-top: -0.5em; margin-bottom: 1.5em;">
+
+<div class="edu-item">
+  <div class="edu-info">
+    <strong>University of Massachusetts Amherst</strong><br>
+    MSCS Student, <em>2024.09 - Present</em><br>
+    Advisor: <a href="https://people.csail.mit.edu/ganchuang/" target="_blank">Chuang Gan</a>
+  </div>
+  <div class="edu-logo">
+    <img src="images/umass_logo.png" alt="UMass" />
+  </div>
+</div>
+
+<div class="edu-item">
+  <div class="edu-info">
+    <strong>Fudan University</strong><br>
+    Undergraduate, <em>2020.09 - 2024.06</em><br>
+    Advisor: <a href=https://openreview.net/profile?id=~Yaqian_Zhou1" target="_blank">Yaqian Zhou</a>
+  </div>
+  <div class="edu-logo">
+    <img src="images/fudan_logo.png" alt="Fudan" />
+  </div>
+</div>
+# 💻 Experiences
+<div class="edu-item">
+  <div class="edu-info">
+    <strong>CUHKSZ</strong><br>
+    Research Intern, <em>2023.06 - 2023.09</em><br>
+    Advisor: <a href=https://cde.nus.edu.sg/ece/haizhou-li/" target="_blank">Haizhou Li</a>
+  </div>
+  <div class="edu-logo">
+    <img src="images/cuhksz_logo.png" alt="CUHKSZ" />
+  </div>
+</div>
+<div class="edu-item">
+  <div class="edu-info">
+    <strong>SONYAI</strong><br>
+    Collaboration, <em>2025.01 - now</em><br>
+    Host: <a href=https://github.com/jutanke" target="_blank">Julian Tanke</a>
+  </div>
+  <div class="edu-logo">
+    <img src="images/sonyai_logo.png" alt="SONYAI" />
+  </div>
+</div>
 <style>
   :root{
     --text:#1f2937;
@@ -247,50 +295,3 @@ My research interest lies in human-centered animation. More specifically, I work
     .pub-card{grid-template-columns:1fr}
   }
 </style>
-
-# 📖 Educations
-<h2>Education</h2>
-<hr style="margin-top: -0.5em; margin-bottom: 1.5em;">
-
-<div class="edu-item">
-  <div class="edu-info">
-    <strong>University of Massachusetts Amherst</strong><br>
-    MSCS Student, <em>2024.09 - Present</em><br>
-    Advisor: <a href="https://people.csail.mit.edu/ganchuang/" target="_blank">Chuang Gan</a>
-  </div>
-  <div class="edu-logo">
-    <img src="images/umass_logo.png" alt="UMass" />
-  </div>
-</div>
-
-<div class="edu-item">
-  <div class="edu-info">
-    <strong>Fudan University</strong><br>
-    Undergraduate, <em>2023.06 - 2023.12</em><br>
-    Advisor: <a href=https://openreview.net/profile?id=~Yaqian_Zhou1" target="_blank">Yaqian Zhou</a>
-  </div>
-  <div class="edu-logo">
-    <img src="images/fudan_logo.png" alt="Fudan" />
-  </div>
-</div>
-# 💻 Experiences
-<div class="edu-item">
-  <div class="edu-info">
-    <strong>CUHKSZ</strong><br>
-    Research Intern, <em>2023.06 - 2023.19</em><br>
-    Advisor: <a href=https://cde.nus.edu.sg/ece/haizhou-li/" target="_blank">Haizhou Li</a>
-  </div>
-  <div class="edu-logo">
-    <img src="images/cuhksz_logo.png" alt="CUHKSZ" />
-  </div>
-</div>
-<div class="edu-item">
-  <div class="edu-info">
-    <strong>SONYAI</strong><br>
-    Collaboration, <em>2025.01 - now</em><br>
-    Host: <a href=https://github.com/jutanke" target="_blank">Julian Tanke</a>
-  </div>
-  <div class="edu-logo">
-    <img src="images/sonyai_logo.png" alt="SONYAI" />
-  </div>
-</div>
