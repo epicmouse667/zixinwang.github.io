@@ -25,7 +25,6 @@ My research interest lies in human-centered animation. More specifically, I work
 # 🔥 News
 - *2025.10*: &nbsp;🎉🎉 One co-first-author paper TalkCuts has been accepted to [Neurips 2025](https://neurips.cc/). 
 - *2025.07*: &nbsp;🎉🎉 One paper Rapverse has been accepted to [ICCV 2025](https://iccv.thecvf.com/).
--  
 
 # 📝 Publications 
 
@@ -207,7 +206,6 @@ My research interest lies in human-centered animation. More specifically, I work
 
 
 # 📖 Educations
-<h2>Education</h2>
 <hr style="margin-top: -0.5em; margin-bottom: 1.5em;">
 
 <div class="edu-item">
