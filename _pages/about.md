@@ -249,7 +249,7 @@ My research interest lies in human-centered animation. More specifically, I work
     Host: <a href="https://github.com/jutanke" target="_blank">Julian Tanke</a>
   </div>
   <div class="edu-logo">
-    <img src="images/sonyai_logo.png" alt="SONYAI" />
+    <img src="images/sony_logo.png" alt="SONYAI" />
   </div>
 </div>
 <style>
