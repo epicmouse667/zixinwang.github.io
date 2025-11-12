@@ -261,7 +261,27 @@ My research interest lies in human-centered animation. More specifically, I work
     --card:#ffffff;
     --border:#e5e7eb;
   }
-
+  .edu-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 2em;
+}
+.edu-info {
+  max-width: 70%;
+  line-height: 1.45em;
+}
+.edu-logo img {
+  width: 75px;  /* 调整这里 控制图片大小 */
+  height: auto;
+  object-fit: contain;
+  border-radius: 6px;
+  box-shadow: 0px 3px 6px rgba(0,0,0,0.15);
+}
+@media (max-width: 780px) {
+  .edu-item { flex-direction: column; align-items: flex-start; }
+  .edu-logo img { margin-top: 0.8em; }
+}
   .pub-card{
     display:grid;
     grid-template-columns: 320px 1fr;
