@@ -177,6 +177,7 @@ My research interest lies in human-centered animation. More specifically, I work
     .pub-card{grid-template-columns:1fr}
   }
 </style>
+<span class='anchor' id='project'></span>
 # 🛠️ Project
 <article class="pub-card">
   <div class="pub-media">
@@ -254,7 +255,7 @@ My research interest lies in human-centered animation. More specifically, I work
   </div>
 </div>
 
-
+<span class='anchor' id='life'></span>
 # 🎬Life
 - I was a member of the university **drama club**. We once represented our school in a city-wide performance. One of the things I’m most proud of is that during my senior year, my classmates and I worked closely together to complete our **graduation play**—an adaptation of Little Red Riding Hood—and performed it for the entire campus. I’m grateful to every member of the team and to all the teachers who supported us.
 - I also love anime and I’m a pretty hardcore ACG fan. I still follow new series every month. My favorite anime is**Evangelion**. I also watch a lot of movies in my spare time. 
