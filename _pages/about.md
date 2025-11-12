@@ -177,6 +177,7 @@ My research interest lies in human-centered animation. More specifically, I work
     .pub-card{grid-template-columns:1fr}
   }
 </style>
+<span class='anchor' id='project'></span>
 # 🛠️ Project
 <article class="pub-card">
   <div class="pub-media">
@@ -229,6 +230,9 @@ My research interest lies in human-centered animation. More specifically, I work
     <img src="images/fudan_logo.png" alt="Fudan" />
   </div>
 </div>
+
+<span class='anchor' id='experiences'></span>
+
 # 💻 Experiences
 <div class="edu-item">
   <div class="edu-info">
