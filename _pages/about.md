@@ -177,7 +177,6 @@ My research interest lies in human-centered animation. More specifically, I work
     .pub-card{grid-template-columns:1fr}
   }
 </style>
-<span class='anchor' id='project'></span>
 # 🛠️ Project
 <article class="pub-card">
   <div class="pub-media">
@@ -246,14 +245,21 @@ My research interest lies in human-centered animation. More specifically, I work
 </div>
 <div class="edu-item">
   <div class="edu-info">
-    <strong>SONYAI</strong><br>
-    Collaboration, <em>2025.01 - present</em><br>
+    <strong>SONY AI</strong><br>
+    Collaboration, <em>2025.01 - Present</em><br>
     Host: <a href="https://github.com/jutanke" target="_blank">Julian Tanke</a>
   </div>
   <div class="edu-logo">
     <img src="images/sony_logo.jpg" alt="SONYAI" />
   </div>
 </div>
+
+
+# 🎬Life
+- I was a member of the university **drama club**. We once represented our school in a city-wide performance. One of the things I’m most proud of is that during my senior year, my classmates and I worked closely together to complete our **graduation play**—an adaptation of Little Red Riding Hood—and performed it for the entire campus. I’m grateful to every member of the team and to all the teachers who supported us.
+- I also love anime and I’m a pretty hardcore ACG fan. I still follow new series every month. My favorite anime is**Evangelion**. I also watch a lot of movies in my spare time. 
+- My favorite game is **Baldur’s Gate 3**. My dream is to use AI to rebuild Baldur’s Gate, increase its level of freedom, and create a highly open-world experience with far more player agency.
+- The two courses I enjoyed the most in college were _A Reading of Descartes’ Meditations on First Philosophy_ and _Film Appreciation_.
 <style>
   :root{
     --text:#1f2937;
