@@ -1,0 +1,23 @@
+site_title = "MyArxiv"
+limit_days = 14
+cache_url = "https://epicmouse667.github.io/MyArxiv/cache.json"
+
+[[sources]]
+limit = 1000
+category = "cs.CV"
+title = "Computer Vision and Pattern Recognition"
+
+[[sources]]
+limit = 1000
+category = "cs.LG"
+title = "Machine Learning"
+
+[[sources]]
+limit = 500
+category = "cs.MM"
+title = "Multimedia"
+
+[scripts]
+highlight_title = "scripts/highlight_title.rhai"
+highlight_author = "scripts/highlight_author.rhai"
+highlight_conference = "scripts/highlight_conference.rhai"
