@@ -213,7 +213,7 @@ My research interest lies in human-centered animation. More specifically, I work
   <div class="edu-info">
     <strong>University of Massachusetts Amherst</strong><br>
     MSCS Student, <em>2024.09 - Present</em><br>
-    Advisor: <a href="https://people.csail.mit.edu/ganchuang/" target="_blank">Chuang Gan</a>
+    Advisor: <a href="https://people.csail.mit.edu/ganchuang/" target="_blank">Prof. Chuang Gan</a>
   </div>
   <div class="edu-logo">
     <img src="images/umass_logo.png" alt="UMass" />
@@ -224,7 +224,7 @@ My research interest lies in human-centered animation. More specifically, I work
   <div class="edu-info">
     <strong>Fudan University</strong><br>
     Undergraduate, <em>2020.09 - 2024.06</em><br>
-    Advisor: <a href="https://openreview.net/profile?id=~Yaqian_Zhou1" target="_blank">Yaqian Zhou</a>
+    Advisor: <a href="https://openreview.net/profile?id=~Yaqian_Zhou1" target="_blank">Prof. Yaqian Zhou</a>
   </div>
   <div class="edu-logo">
     <img src="images/fudan_logo.png" alt="Fudan" />
@@ -238,7 +238,7 @@ My research interest lies in human-centered animation. More specifically, I work
   <div class="edu-info">
     <strong>CUHKSZ</strong><br>
     Research Intern, <em>2023.06 - 2023.09</em><br>
-    Advisor: <a href="https://cde.nus.edu.sg/ece/haizhou-li/" target="_blank">Haizhou Li</a>
+    Advisor: <a href="https://cde.nus.edu.sg/ece/haizhou-li/" target="_blank">Prof. Haizhou Li</a>
   </div>
   <div class="edu-logo">
     <img src="images/cuhksz_logo.png" alt="CUHKSZ" />
@@ -248,7 +248,7 @@ My research interest lies in human-centered animation. More specifically, I work
   <div class="edu-info">
     <strong>SONY AI</strong><br>
     Collaboration, <em>2025.01 - Present</em><br>
-    Host: <a href="https://github.com/jutanke" target="_blank">Julian Tanke</a>
+    Host: <a href="https://github.com/jutanke" target="_blank">Dr. Julian Tanke</a>
   </div>
   <div class="edu-logo">
     <img src="images/sony_logo.jpg" alt="SONYAI" />
