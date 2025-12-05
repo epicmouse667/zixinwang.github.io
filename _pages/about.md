@@ -256,7 +256,7 @@ My research interest lies in human-centered animation. More specifically, I work
 </div>
 <div class="edu-item">
   <div class="edu-info">
-    <strong>MIT-IBM Watson</strong><br>
+    <strong>MIT-IBM Watson AI Lab</strong><br>
     Collaboration, <em>2025.01 - 2025.05</em><br>
     Host: <a href="https://mitibmwatsonailab.mit.edu/people/yang-zhang/" target="_blank">Dr. Yang Zhang</a>
   </div>
